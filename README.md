@@ -27,11 +27,11 @@ Developed a threat-informed data architecture roadmap that included system centr
 Final recommendations were presented to an audience of 200+ U.S. State Department officials, including cybersecurity officers, diplomatic staff, and IT leadership. The project was praised for its strategic clarity, systems-level thinking, and human-centric approach to security reform.
 
 Key Deliverables:
-Stakeholder interview synthesis (DoS officers, analysts, faculty, and industry experts)
-Threat modeling diagrams and data flow visuals
-Comparative analysis of existing federal data systems
-Centralized intelligence-sharing architecture proposal
-Presentation and Q&A with federal cybersecurity leadership
+-Stakeholder interview synthesis (DoS officers, analysts, faculty, and industry experts)
+-Threat modeling diagrams and data flow visuals
+-Comparative analysis of existing federal data systems
+-Centralized intelligence-sharing architecture proposal
+-Presentation and Q&A with federal cybersecurity leadership
 
 Key Skills:
 Threat Intelligence · OSINT Research · Systems Mapping · Data Architecture · Stakeholder Communication · Government Cybersecurity Policy · Strategic Foresight · Public Sector Innovation · Presentation Strategy
