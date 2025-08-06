@@ -28,9 +28,13 @@ Final recommendations were presented to an audience of 200+ U.S. State Departmen
 
 Key Deliverables:
 -Stakeholder interview synthesis (DoS officers, analysts, faculty, and industry experts)
+
 -Threat modeling diagrams and data flow visuals
+
 -Comparative analysis of existing federal data systems
+
 -Centralized intelligence-sharing architecture proposal
+
 -Presentation and Q&A with federal cybersecurity leadership
 
 Key Skills:
